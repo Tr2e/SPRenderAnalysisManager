@@ -1,5 +1,6 @@
 # SPRenderAnalysisManager
-🚀 A simple tool can help analyze page render time in Objective-C program
+🚀 A simple tool what can help analyze page render time in Objective-C program
+
 There are two interesting 'Prirates' in this tool
 * SPRunloopTimerPirate
 * SPGCDTimerPirate

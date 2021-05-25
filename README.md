@@ -5,4 +5,4 @@ There are two interesting 'Prirates' in this tool
 * SPGCDTimerPirate
 use them you can stop all timers at the 'kill' moment.
 
-Thanks [fishhook](https://github.com/facebook/fishhook), it is so cool and very helper.
+Thanks [fishhook](https://github.com/facebook/fishhook), it is so cool and very helpful.
